@@ -1,3 +1,3 @@
 # Simple-Paint-App
-#Author
+# Author
 ## Aditya Kumar
