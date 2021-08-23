@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+Canvas{
+	margin: auto;
+	display: block;
+	position: absolute;
+    border: 1px solid gray;
+	padding: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+button{
+    position: absolute;
+    padding: 0;
+    margin-bottom: 80px;
+    width: 55px;
+    bottom: 0;
+    margin-left: 73%;
+}
